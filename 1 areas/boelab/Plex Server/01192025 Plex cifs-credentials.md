@@ -12,8 +12,8 @@ tags:
 /etc/cifs-credentials:
 
 ```
-username=jboe
-password=AJBoe7321!
+username="your username"
+password="your password"
 ```
 
 also see [[01192025 Plex fstab]] and [[01192025 Auto Mount Network Drives in Linux]]
