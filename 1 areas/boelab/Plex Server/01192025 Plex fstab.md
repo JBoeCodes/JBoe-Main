@@ -9,11 +9,11 @@ tags:
 /etc/fstab for plex server network drives:
 
 ```
-//192.168.0.224/Movies /mnt/movies cifs credentials=/etc/cifs-credentials 0 0
-//192.168.0.224/Shows /mnt/shows cifs credentials=/etc/cifs-credentials 0 0
-//192.168.0.224/Music /mnt/music cifs credentials=/etc/cifs-credentials 0 0
+//NAS.IP/Movies /mnt/movies cifs credentials=/etc/cifs-credentials 0 0
+//NAS.IP/Shows /mnt/shows cifs credentials=/etc/cifs-credentials 0 0
+//NAS.IP/Music /mnt/music cifs credentials=/etc/cifs-credentials 0 0
 ```
 
-192.168.0.224 is the current ip for my nas (see [[01192025 boenet]])
+NAS.IP is the current ip for my nas (see [[01192025 boenet]])
 
 also see [[01192025 Plex cifs-credentials]]
